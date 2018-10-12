@@ -1,2 +1,4 @@
 ia:
   url: ${IA_SERVICE_URL: https://nc3-013c-ixb-ia.wellsfargo.com:14221/crm/esa}
+wfa:
+  name: ${WFA_COOKIE_NAME: wfacookie}
