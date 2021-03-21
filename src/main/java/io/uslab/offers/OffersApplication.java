@@ -8,5 +8,6 @@ public class OffersApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(OffersApplication.class, args);
+//Test
 	}
 }
